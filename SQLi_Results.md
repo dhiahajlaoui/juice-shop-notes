@@ -4,7 +4,7 @@
 - *Page*: /login
 - *Result*: Success (Admin access)
 - *Time Taken*: 5 minutes
-- *Screenshot*: ![SQLi1](screenshots/screenshots/Capture d'écran 2025-08-15 115303.png)
+  
 
 ## Test 2: ' OR 'a'='a' --
 - *Date*: 15/08/2025
